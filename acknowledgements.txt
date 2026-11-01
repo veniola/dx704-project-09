@@ -1,0 +1,2 @@
+
+AI Appendix: AI Appendix: Claude Sonnet 5 was used in order to better understand BLANK, as well as to better understand the complexities of BLANK. Additionally, Claude Sonnet 5 was utilized to help save time troubleshooting and debugging the errors in my code.
