@@ -1,2 +1,2 @@
-
-AI Appendix: AI Appendix: Claude Sonnet 5 was used in order to better understand BLANK, as well as to better understand the complexities of BLANK. Additionally, Claude Sonnet 5 was utilized to help save time troubleshooting and debugging the errors in my code.
+OMDS DX704 - Week 9 Live Session Code: https://github.com/bu-cds-omds/dx704-examples/blob/main/week09/2026-10-29_live_session.ipynb.
+AI Appendix: Claude Sonnet 5 was used in order to better understand binary classifiers and feature extraction design. Additionally, Claude Sonnet 5 was utilized to help save time troubleshooting and debugging the errors in my code.
